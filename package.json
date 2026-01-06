@@ -1,6 +1,7 @@
 {
-  "name": "web3-backend",
+  "name": "web3_backend",
   "version": "1.0.0",
+  "description": "Backend for Web3 DApp with Admin Control",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
